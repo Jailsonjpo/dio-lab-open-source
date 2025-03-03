@@ -21,12 +21,8 @@ Atualmente, sou funcionário público e atuo como gerente de projetos, o que me 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-## Stack utilizada
+## Stacks utilizadas
 
-<<<<<<< HEAD:community/jailsonjpo.md
 **Front-end:** React, Reac Native, Redux, TailwindCSS, VUE
-=======
-**Front-end:** React, Redux, CSS, TailwindCSS, VUE
->>>>>>> 1134592bb (feat: add Jailsonjpo.md profile):community/Jailsonjpo.md
 
 **Back-end:** JAVA, SPRINT BOOT, JAVA MOBILE, PHP, Node, FLUTTER.
